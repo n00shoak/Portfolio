@@ -16,3 +16,16 @@ I started programing when i was 13 (on python and with scratch) and i continued 
 
 
 Today i'm still eager to learn and keep at trying new stuff and working with new code architecture, however i am more used to **C# in unity**
+
+
+I Have skill in **UI/UX Programming,gameplay, Character Control** and currently experiment a lot on **procedural generation**
+
+I am a **creative programmer :**  i have a real interest about programming and enjoy experimenting a lot with my current knowledge and expand on it to get to be more and more performant as a programmer.
+
+I Enjoy Learning and progressing a lot. not just as a programmer but as a person in general and as such i study various field such as cooking , astronomy, biology and a bit of music as well
+
+## here you can find my : 
+- **[insert resume]**
+- **[insert doc in project i worked on]**
+- **[insert list of stuff i experimented on (coding)]**
+- **[insert stuff i enjoy doing(videogame,cookingc.ect...)]**
