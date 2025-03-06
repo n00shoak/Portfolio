@@ -1,6 +1,5 @@
 # Hey!
 Nice to meet you !
-___
 
 ## I'm Baptiste Guilcher
 ___
