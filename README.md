@@ -24,8 +24,14 @@ I am a **creative programmer :**  i have a real interest about programming and e
 
 I Enjoy Learning and progressing a lot. not just as a programmer but as a person in general and as such i study various field such as cooking , astronomy, biology and a bit of music as well
 
+___
 ## here you can find my : 
 - **[insert resume]**
 - **[insert doc in project i worked on]**
 - **[insert list of stuff i experimented on (coding)]**
 - **[insert stuff i enjoy doing(videogame,cookingc.ect...)]**
+
+___
+## Ways to contact me : 
+Mail : (btguilcher@gmail.com)
+Phone : 0664035526
