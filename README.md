@@ -7,7 +7,7 @@ I'm a **Game Programmer**. i'm currently at the last years of my studiest at [ES
 
 I started programing when i was 13 (on python and with scratch) and i continued to learn and progress since then with software like **Unity, Phaser, Scratch, Unreal Engine, MCreator ...**
 i really enjoy learning about programming in general and framework. over the years i've learned multiple programming language such as 
-  • **c#**
+/n  • **c#**
   • **C++**
   • **Python**
   • **Java**
