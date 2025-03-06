@@ -33,5 +33,5 @@ ___
 
 ___
 ## Ways to contact me : 
-Mail : (btguilcher@gmail.com)
-Phone : 0664035526
+- Mail : (btguilcher@gmail.com)
+- Phone : 0664035526
