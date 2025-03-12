@@ -7,10 +7,26 @@ some of the project were made on phaser 3
 here is a video of how you can launch them [aparently i need to do it my self]
 
 ### ⏫ __platformer__
+**my role :** *alone on the project*  
+**pitch :** **
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
 
 
 ### ⚔️ __Zelda like__
+**my role :** *alone on the project*  
+**pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
 
 
@@ -19,7 +35,7 @@ Game from the **2022 ETPA GameJam**
 **my role :** *animator*  
 **pitch :** you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level  
 [you can try it out here](https://sangagin.itch.io/deletoile)     *disclaimer : it was made on phaser so its a bit tricky to launch* 
-[link to video of gameplay]  
+[you can try it out here]  
 ___
 
 
@@ -46,20 +62,60 @@ ___
 
 
 ### 🏐 __Space Pong__
+**my role :** *alone on the project*  
+**pitch :** **
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
 
 
 ### 🔒 __escape game__
+**my role :** *alone on the project*  
+**pitch :** **
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
 
 
 ### ✈️ __Neon Shooter__
+**my role :** *alone on the project*  
+**pitch :** **
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
 
 
 ### ⌨️ __Type it__
+**my role :** *alone on the project*  
+**pitch :** **
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
 
 
 ### 🏏 __Maxi PinBall__
+**my role :** *alone on the project*  
+**pitch :** **
+[you can try it out here]
+[you can try it out here]
+#### cool coding stuff done :  
+> **stuff :**
+#### things i want to add / change : 
+>
 ___
