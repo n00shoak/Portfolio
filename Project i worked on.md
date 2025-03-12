@@ -63,9 +63,9 @@ ___
 
 ### 🏐 __Space Pong__ (2023)
 **my role :** *programmer*  
-**pitch :** **
-[you can try it out here]
-[you can try it out here]
+**pitch :** **  
+[you can try it out here]  
+[Gameplay video]  
 #### cool coding stuff done :  
 > **stuff :**
 #### things i want to add / change : 
@@ -75,9 +75,9 @@ ___
 
 ### 🔒 __escape game__ (2023)
 **my role :** *programmer*  
-**pitch :** **
-[you can try it out here]
-[you can try it out here]
+**pitch :** **  
+[you can try it out here]  
+[Gameplay video]  
 #### cool coding stuff done :  
 > **stuff :**
 #### things i want to add / change : 
@@ -87,9 +87,9 @@ ___
 
 ### ✈️ __Neon Shooter__ (2023)
 **my role :** *alone on the project*  
-**pitch :** **
-[you can try it out here]
-[you can try it out here]
+**pitch :** **  
+[you can try it out here]  
+[Gameplay video]  
 #### cool coding stuff done :  
 > **stuff :**
 #### things i want to add / change : 
@@ -99,9 +99,9 @@ ___
 
 ### ⌨️ __Type it__ (2024)
 **my role :** *alone on the project*  
-**pitch :** **
-[you can try it out here]
-[you can try it out here]
+**pitch :** **  
+[you can try it out here]  
+[Gameplay video]  
 #### cool coding stuff done :  
 > **stuff :**
 #### things i want to add / change : 
@@ -111,9 +111,9 @@ ___
 
 ### 🏏 __Maxi PinBall__ (2024)
 **my role :** *alone on the project*  
-**pitch :** **
-[you can try it out here]
-[you can try it out here]
+**pitch :** **  
+[you can try it out here]  
+[Gameplay video]  
 #### cool coding stuff done :  
 > **stuff :**
 #### things i want to add / change : 
