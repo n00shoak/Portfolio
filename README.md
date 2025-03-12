@@ -26,8 +26,8 @@ I Enjoy Learning and progressing a lot. not just as a programmer but as a person
 
 ___
 ## 📂 here you can find my : 
-- **[insert resume]**
-- **[insert doc in project i worked on]**
+- **![insert resume](https://www.figma.com/design/osDxtD14chyVI4ayJRbEdn/Untitled?node-id=0-1&t=JpObuGv2qwo94xJb-1)**
+- **[insert doc in project i worked on](https://github.com/n00shoak/Portfolio/blob/main/Project%20i%20worked%20on.md)**
 - **[insert list of stuff i experimented on (coding)]**
 - **[insert stuff i enjoy doing(videogame,cookingc.ect...)]**
 
