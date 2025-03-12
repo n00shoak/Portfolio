@@ -11,8 +11,8 @@ here is a video of how you can launch them [aparently i need to do it my self]
 **my role :** *alone on the project*  
 **pitch :** you play as a little robot that can aquire various abbilitys to get out of the broken factory it is stuck in**
 > my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈 
-[you van get the files here]
-[you can try it out here]
+[you van get the files here]  
+[gameplay video]  
 #### things i want to add / change : 
 > ray traycing, an open world area and macro transactions
 ___
@@ -21,8 +21,8 @@ ___
 ### ⚔️ __Omnious Gaze__ (2022)
 **my role :** *alone on the project*  
 **pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*
-[you van get the files here]
-[gameplay video]
+[you van get the files here]  
+[gameplay video]  
 #### cool coding stuff done :  
 > **AI : it was my first time dealing with ai and trying to give it fun behavior i had to keep it simple to fit in the dead line but i made it change its behavior depending on its health and proximity to the player to make it flee or fight. It isnt much but its the first of many and today i still enjoy developing ennemies with various behavior and paterns to challenge the player**
 #### things i want to add / change : 
@@ -35,7 +35,7 @@ ___
 Game from the **2022 ETPA GameJam**  
 **my role :** *animator*  
 **pitch :** you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level  
-[you can try it out here](https://sangagin.itch.io/deletoile)
+[you can try it out here](https://sangagin.itch.io/deletoile)  
 [you can try it out here]  
 ___
 
