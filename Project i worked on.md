@@ -13,7 +13,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 [you van get the files here]
 [you can try it out here]
 #### things i want to add / change : 
-> ray traycing; an open world area and macro transactions
+> ray traycing, an open world area and macro transactions
 ___
 
 
