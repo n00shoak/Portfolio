@@ -4,11 +4,18 @@ they are in chronological order from oldest to newest.
 so if you see that the way i coded is really different, its because i learned and progressed between and within each project !
 
 ### ⏫ __platformer__
+
 ___
+
+
 ### ⚔️ __Zelda like__
 ___
+
+
 ### 👊 __DEL *.*__
 ___
+
+
 ### ⛏️ __Deep Down Below__
 ___
 ### 🏐 __Space Pong__
