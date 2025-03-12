@@ -15,6 +15,11 @@ ___
 
 
 ### 👊 __DEL *.*__
+Game from the **2022 ETPA GameJam**  
+**my role :** *animator*  
+**pitch :** you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level  
+[you can try it out here](https://sangagin.itch.io/deletoile)     *disclaimer : it was made on phaser so its a bit tricky to launch* 
+[link to video of gameplay]  
 ___
 
 
@@ -22,7 +27,7 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
 
-[you can try it out here] () disclaimer : it was made on phaser so its a bit tricky to launch  
+[you can try it out here] ()     *disclaimer : it was made on phaser so its a bit tricky to launch*  
 [link to video of gameplay]  
 
 #### cool coding stuff done :  
