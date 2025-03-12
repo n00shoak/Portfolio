@@ -9,7 +9,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ### ⏫ __platformer__
 **my role :** *alone on the project*  
 **pitch :** **
-[you can try it out here]
+[you van get the files here]
 [you can try it out here]
 #### cool coding stuff done :  
 > **stuff :**
@@ -18,23 +18,24 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ___
 
 
-### ⚔️ __Zelda like__
+### ⚔️ __Omnious Gaze__
 **my role :** *alone on the project*  
 **pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*
-[you can try it out here]
-[you can try it out here]
+[you van get the files here]
+[gameplay video]
 #### cool coding stuff done :  
-> **stuff :**
+> **AI : it was my first time dealing with ai and trying to give it fun behavior i had to keep it simple to fit in the dead line but i made it change its behavior depending on its health and proximity to the player to make it flee or fight. It isnt much but its the first of many and today i still enjoy developing ennemies with various behavior and paterns to challenge the player**
 #### things i want to add / change : 
->
+> the game currently lack of an end game but apart from redoing the project on an other engine it was pretty fun already
+> maybe more fx to really enhance the omnius and grim ambiance i wanted for this project
 ___
 
 
-### 👊 __DEL *.*__
+### 👊 __DEL * . *__
 Game from the **2022 ETPA GameJam**  
 **my role :** *animator*  
 **pitch :** you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level  
-[you can try it out here](https://sangagin.itch.io/deletoile)     *disclaimer : it was made on phaser so its a bit tricky to launch* 
+[you can try it out here](https://sangagin.itch.io/deletoile)
 [you can try it out here]  
 ___
 
@@ -43,7 +44,7 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
 
-[you can try it out here] ()     *disclaimer : it was made on phaser so its a bit tricky to launch*  
+[you van get the files here]() 
 [link to video of gameplay]  
 
 #### cool coding stuff done :  
