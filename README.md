@@ -2,7 +2,7 @@
 Nice to meet you !
 
 
-## I'm Baptiste Guilcher
+## 🖋️ I'm Baptiste Guilcher
 I'm a **Game Programmer**. i'm currently at the last years of my studiest at [ESMA](https://www.esma-artistique.com/?utm_term=esma%20jeu%20video&utm_campaign=ASUC%20-%20Search%20-%20ESMA%20Artistique&utm_source=adwords&utm_medium=ppc&hsa_acc=1749986737&hsa_cam=843358225&hsa_grp=50859734838&hsa_ad=705541968169&hsa_src=g&hsa_tgt=kwd-892398793866&hsa_kw=esma%20jeu%20video&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIAkW0M4rpcnAs70Dyp9p_5Mbfb32gxIsOsPbIY9NBRdg8z4K8QgQrhoCgPYQAvD_BwE) and have been learning the craft of game dev since **2021**
 
 
@@ -25,13 +25,13 @@ I am a **creative programmer :**  i have a real interest about programming and e
 I Enjoy Learning and progressing a lot. not just as a programmer but as a person in general and as such i study various field such as cooking , astronomy, biology and a bit of music as well
 
 ___
-## here you can find my : 
+## 📂 here you can find my : 
 - **[insert resume]**
 - **[insert doc in project i worked on]**
 - **[insert list of stuff i experimented on (coding)]**
 - **[insert stuff i enjoy doing(videogame,cookingc.ect...)]**
 
 ___
-## Ways to contact me : 
+## 📱 Ways to contact me : 
 - Mail : btguilcher@gmail.com
 - Phone : 0664035526
