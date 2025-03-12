@@ -12,10 +12,8 @@ here is a video of how you can launch them [aparently i need to do it my self]
 > my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈 
 [you van get the files here]
 [you can try it out here]
-#### cool coding stuff done :  
-> **stuff :**
 #### things i want to add / change : 
->
+> ray traycing; an open world area and macro transactions
 ___
 
 
