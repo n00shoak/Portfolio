@@ -9,7 +9,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ### ⏫ __platformer__ (2022)
 **my role :** *alone on the project*  
 **pitch :** you play as a little robot that can aquire various abbilitys to get out of the broken factory it is stuck in**
-my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈 
+> my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈 
 [you van get the files here]
 [you can try it out here]
 #### cool coding stuff done :  
