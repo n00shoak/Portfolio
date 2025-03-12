@@ -1,10 +1,10 @@
-#Project i worked on : 
-## platformer
-## Zelda like
-## DEL *.*
-## Deep Down Below
-## Space Pong
-## escape game
-## Neon Shooter
-## Type it
-## Maxi PinBall
+# __Project i worked on :__ 
+## __platformer__
+## __Zelda like__
+## __DEL *.*__
+## __Deep Down Below__
+## __Space Pong__
+## __escape game__
+## __Neon Shooter__
+## __Type it__
+## __Maxi PinBall__
