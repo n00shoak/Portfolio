@@ -24,7 +24,7 @@ ___
 pitch : you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear   
 my role : alone on the project  
 #### cool coding stuff done :  
-Procedural generation :   
+> **Procedural generation :**   
 (that was one of my first game it was really badly coded)  
 the goal was to have a tunel shaped caves that wasnt just a straight line  
 to reach that goal i first did the floor by creating an array of number, and then use each numbers to generate tile to that numbers height  
