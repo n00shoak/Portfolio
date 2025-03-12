@@ -62,7 +62,7 @@ ___
 
 
 ### 🏐 __Space Pong__
-**my role :** *alone on the project*  
+**my role :** *programmer*  
 **pitch :** **
 [you can try it out here]
 [you can try it out here]
@@ -74,7 +74,7 @@ ___
 
 
 ### 🔒 __escape game__
-**my role :** *alone on the project*  
+**my role :** *programmer*  
 **pitch :** **
 [you can try it out here]
 [you can try it out here]
