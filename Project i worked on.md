@@ -1,4 +1,8 @@
 # ⚙️ __Project i worked on :__ 
+here is a list off the realeased project i worked on
+they are in chronological order from oldest to newest.
+so if you see that the way i coded is really different, its because i learned and progressed between and within each project !
+
 ### ⏫ __platformer__
 ___
 ### ⚔️ __Zelda like__
