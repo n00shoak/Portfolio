@@ -33,7 +33,7 @@ then i set the ammount of neighbours and the strenght of the averaging to create
 and once the code for the ground was doe i copyed it and fliped the generation to have a roof  
 
 #### things i want to add / change : 
-i want to redo it all with my current knowledge and use class / struct and loops instead of massive amount of line that just spawn stuff for procedural generation
+> i want to redo it all with my current knowledge and use class / struct and loops instead of massive amount of line that just spawn stuff for procedural generation
 and maybe some remote multiplayer instead of having everyone on the same keyboard.
 ___
 
