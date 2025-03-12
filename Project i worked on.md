@@ -19,10 +19,12 @@ ___
 
 
 ### ⛏️ __Deep Down Below__
+my role : alone on the project 
+*pitch : you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
+
 [you can try it out here] () disclaimer : it was made on phaser so its a bit tricky to launch  
 [link to video of gameplay]  
-pitch : you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear   
-my role : alone on the project  
+
 #### cool coding stuff done :  
 > **Procedural generation :**   
 (that was one of my first game it was really badly coded)  
