@@ -1,17 +1,17 @@
-# __Stuff i did outside of project__
+# __🧪 Stuff i did outside of project__
 here is a list of cool stuff i enjoyed working on : 
 
-## ai tasks
+### __ai tasks__
 ___
-## a*
+### __a*__
 ___
-## ai behabior
+### __ai behabior__
 ___
-## procedural generation
+### __procedural generation__
 ___
-## weird state machine
+###__ weird state machine__
 ___
-## statisitic system
+### __statisitic system__
 ___
-## animation lerp 
+### __animation lerp __
 ___
