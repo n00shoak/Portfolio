@@ -1,19 +1,19 @@
 # ⚙️ __Project i worked on :__ 
-## ⏫ __platformer__
+### ⏫ __platformer__
 ___
-## ⚔️ __Zelda like__
+### ⚔️ __Zelda like__
 ___
-## 👊 __DEL *.*__
+### 👊 __DEL *.*__
 ___
-## ⛏️ __Deep Down Below__
+### ⛏️ __Deep Down Below__
 ___
-## 🏐 __Space Pong__
+### 🏐 __Space Pong__
 ___
-## 🔒 __escape game__
+### 🔒 __escape game__
 ___
-## ✈️ __Neon Shooter__
+### ✈️ __Neon Shooter__
 ___
-## ⌨️ __Type it__
+### ⌨️ __Type it__
 ___
-## 🏏 __Maxi PinBall__
+### 🏏 __Maxi PinBall__
 ___
