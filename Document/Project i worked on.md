@@ -64,13 +64,15 @@ ___
 
 ### 🏐 __Space Pong__ (2023)
 **my role :** *programmer*  
-**pitch :** **  
+**pitch :**its the game pong but you can play it up to four player**  
 [you can try it out here]  
 [Gameplay video]  
 #### cool coding stuff done :  
+> physics : most of the time i enjoy coding component and object behavior my self, but on that project i tryed to get out of my confort zone and try to work around collider effect. Doing so was a lot of fun and i could experiment a lot on the rigidbody's feature by changing how bouncy does the bars can be or adding a balck hole that pull the ball inside. Despite being a small project i really enjoyed playing this game and having four person on the same keyboard make it even funnier !
+
 > **stuff :**
 #### things i want to add / change : 
->
+> being abble to select how many player are playing would be nice since the game isnt really made for less than four player. Also i think making the "arena" a circle would be interesting 
 ___
 
 
@@ -80,9 +82,7 @@ ___
 [you can try it out here]  
 [Gameplay video]  
 #### cool coding stuff done :  
-> **stuff :**
-#### things i want to add / change : 
->
+> **the water management puzzle : its not only and indicator of how much time the player has left but having it interactable and making the player decide if its worht it to spend extra time on it to gain time was really intresting ! The puzzle itself is a series of room that can get filled of whater and comunicate their fill amount to the next room, it was a bit tidyous and i think i could make it simpler using a few videoclips and the Timeline tool to have something that look better**
 ___
 
 
@@ -92,9 +92,12 @@ ___
 [you can try it out here]  
 [Gameplay video]  
 #### cool coding stuff done :  
-> **stuff :**
+> **AI : i tryed to make some ennemies that were interesting to fight, thats why i implemented two key features for theyr behavior :  
+> - Player Distance based behavior : i used it so that the ennemis can rush the player if to faraway and start theyr attack patern when nearby  
+> - Randomized statistic : on my first test the eneemies where stacked ont one another and where all doing the same thing at the same time, to prevent that , each ai start with few tweaks in theyr stats wich make them a little slower or faster and result in variation in theyr behavior**  
+[link to ai test]
 #### things i want to add / change : 
->
+> i first planned to make it a rogue like and it would be nice to have upgrade as you progress through the game, and more ennemis that would be harder and harder to fight as the player get stronger to keep some challenge and fun ! 
 ___
 
 
