@@ -10,7 +10,10 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ### ⏫ __platformer__ (2022)
 **my role :** *alone on the project*  
 **pitch :** you play as a little robot that can aquire various abbilitys to get out of the broken factory it is stuck in**
-> my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈   
+> my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈
+
+
+
 [you van get the files here]  
 [gameplay video]  
 #### things i want to add / change : 
@@ -20,7 +23,7 @@ ___
 
 ### ⚔️ __Omnious Gaze__ (2022)
 **my role :** *alone on the project*  
-**pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*
+**pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*  
 [you van get the files here]  
 [gameplay video]  
 #### cool coding stuff done :  
@@ -36,7 +39,7 @@ Game from the **2022 ETPA GameJam**
 **my role :** *animator*  
 **pitch :** you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level  
 [you can try it out here](https://sangagin.itch.io/deletoile)  
-[you can try it out here]  
+[Gameplay Video]  
 ___
 
 
@@ -44,8 +47,8 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
 
-[you van get the files here](https://github.com/n00shoak/DeepDownBelow) 
-[link to video of gameplay]  
+[you van get the files here](https://github.com/n00shoak/DeepDownBelow)  
+[Gameplay Video]  
 
 #### cool coding stuff done :  
 > **Procedural generation :**   
