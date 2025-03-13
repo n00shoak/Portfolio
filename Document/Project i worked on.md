@@ -85,7 +85,7 @@ ___
 [you can try it out here]  
 [Gameplay video]  
 #### cool coding stuff i did :  
-> **the water management puzzle : its not only and indicator of how much time the player has left but having it interactable and making the player decide if its worht it to spend extra time on it to gain time was really intresting ! The puzzle itself is a series of room that can get filled of whater and comunicate their fill amount to the next room, it was a bit tidyous and i think i could make it simpler using a few videoclips and the Timeline tool to have something that look better**
+> **the water management puzzle :** its not only and indicator of how much time the player has left but having it interactable and making the player decide if its worht it to spend extra time on it to gain time was really intresting ! The puzzle itself is a series of room that can get filled of whater and comunicate their fill amount to the next room, it was a bit tidyous and i think i could make it simpler using a few videoclips and the Timeline tool to have something that look better
 ___
 
 
