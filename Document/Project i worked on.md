@@ -50,7 +50,7 @@ ___
 [you van get the files here](https://github.com/n00shoak/DeepDownBelow)  
 [Gameplay Video]  
 
-#### cool coding stuff done :  
+#### cool coding stuff i did :  
 > **Procedural generation :**   
 (that was one of my first game it was really badly coded)  
 the goal was to have a tunel shaped caves that wasnt just a straight line  
@@ -84,7 +84,7 @@ ___
 **pitch :** **  
 [you can try it out here]  
 [Gameplay video]  
-#### cool coding stuff done :  
+#### cool coding stuff i did :  
 > **the water management puzzle : its not only and indicator of how much time the player has left but having it interactable and making the player decide if its worht it to spend extra time on it to gain time was really intresting ! The puzzle itself is a series of room that can get filled of whater and comunicate their fill amount to the next room, it was a bit tidyous and i think i could make it simpler using a few videoclips and the Timeline tool to have something that look better**
 ___
 
@@ -94,7 +94,7 @@ ___
 **pitch :**you play as a little spache ship and try to defend yourself from relentless ennemies**  
 [you can try it out here](https://n00shoak.itch.io/neon-shooter)  
 [Gameplay video]  
-#### cool coding stuff done :  
+#### cool coding stuff i did :  
 > **AI : i tryed to make some ennemies that were interesting to fight, thats why i implemented two key features for theyr behavior :  
 > - Player Distance based behavior : i used it so that the ennemis can rush the player if to faraway and start theyr attack patern when nearby  
 > - Randomized statistic : on my first test the eneemies where stacked ont one another and where all doing the same thing at the same time, to prevent that , each ai start with few tweaks in theyr stats wich make them a little slower or faster and result in variation in theyr behavior**  
@@ -109,7 +109,7 @@ ___
 **pitch :** **  
 [you can try it out here]  
 [Gameplay video]  
-#### cool coding stuff done :  
+#### cool coding stuff i did :  
 > **stuff :**
 #### things i want to add / change : 
 >
@@ -121,7 +121,7 @@ ___
 **pitch :** **  
 [you can try it out here]  
 [Gameplay video]  
-#### cool coding stuff done :  
+#### cool coding stuff i did :  
 > **stuff :**
 #### things i want to add / change : 
 >
