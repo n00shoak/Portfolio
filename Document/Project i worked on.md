@@ -95,7 +95,7 @@ ___
 [you can try it out here](https://n00shoak.itch.io/neon-shooter)  
 [Gameplay video]  
 #### cool coding stuff i did :  
-> **AI : i tryed to make some ennemies that were interesting to fight, thats why i implemented two key features for theyr behavior :  
+> *AI : i tryed to make some ennemies that were interesting to fight, thats why i implemented two key features for theyr behavior :*  
 > - Player Distance based behavior : i used it so that the ennemis can rush the player if to faraway and start theyr attack patern when nearby  
 > - Randomized statistic : on my first test the eneemies where stacked ont one another and where all doing the same thing at the same time, to prevent that , each ai start with few tweaks in theyr stats wich make them a little slower or faster and result in variation in theyr behavior**  
 [link to ai test]
