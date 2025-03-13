@@ -21,7 +21,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ___
 
 
-### ⚔️ __Omnious Gaze__ (2022)
+### ⚔️ __Ominous Gaze__ (2022)
 **my role :** *alone on the project*  
 **pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*  
 [you van get the files here]  
