@@ -65,7 +65,7 @@ ___
 ### 🏐 __Space Pong__ (2023)
 **my role :** *programmer*  
 **pitch :**its the game pong but you can play it up to four player**  
-[you can try it out here]  
+[you can try it out here](https://n00shoak.itch.io/space-pong)  
 [Gameplay video]  
 #### cool coding stuff done :  
 > physics : most of the time i enjoy coding component and object behavior my self, but on that project i tryed to get out of my confort zone and try to work around collider effect. Doing so was a lot of fun and i could experiment a lot on the rigidbody's feature by changing how bouncy does the bars can be or adding a balck hole that pull the ball inside. Despite being a small project i really enjoyed playing this game and having four person on the same keyboard make it even funnier !
@@ -88,8 +88,8 @@ ___
 
 ### ✈️ __Neon Shooter__ (2023)
 **my role :** *alone on the project*  
-**pitch :** **  
-[you can try it out here]  
+**pitch :**you play as a little spache ship and try to defend yourself from relentless ennemies**  
+[you can try it out here](https://n00shoak.itch.io/neon-shooter)  
 [Gameplay video]  
 #### cool coding stuff done :  
 > **AI : i tryed to make some ennemies that were interesting to fight, thats why i implemented two key features for theyr behavior :  
