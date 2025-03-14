@@ -122,7 +122,8 @@ ___
 #### cool coding stuff i did :  
 > **FX : in that project i learned how to make interesting sound and visual effect to make the gameplay dynamic and keep the player focus on the action, its also in this project that i learned how to use proprely the animation tool in unity**
 #### things i want to add / change :
-> make it codeless , with my current knowledge of unity i belive that by simply using a mix of physical object / animations and event call i can drasticly reduce the ammount of custom script needed and despite not being the most optimise way to do a game it just seem like something fun to try.
+> **make it codeless :**  
+>  with my current knowledge of unity i belive that by simply using a mix of physical object / animations and event call i can drasticly reduce the ammount of custom script needed and despite not being the most optimise way to do a game it just seem like something fun to try.
 ___
 
 ### Unclock (2025)
