@@ -9,7 +9,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ## Games made at [ESMA](https://www.bing.com/search?q=esma&form=ANNH01&refig=77fb96aba7eb44a0b91fa1b2e6cba69a&pc=U531)
 ### ⏫ __platformer__ (2022)
 **my role :** *alone on the project*  
-**pitch :** you play as a little robot that can aquire various abbilitys to get out of the broken factory it is stuck in**
+**pitch :** *you play as a little robot that can aquire various abbilitys to get out of the broken factory it is stuck in*
 > my first game on a "real" game engine (not counting scratch and my casio calculator) its not the best but its the first of many 📈
 
 
@@ -37,7 +37,7 @@ ___
 ### 👊 __DEL * . *__ (2022)
 Game from the **2022 ETPA GameJam**  
 **my role :** *animator*  
-**pitch :** you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level  
+**pitch :** *you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level*  
 [you can try it out here](https://sangagin.itch.io/deletoile)  
 [Gameplay Video]  
 ___
@@ -67,7 +67,7 @@ ___
 
 ### 🏐 __Space Pong__ (2023)
 **my role :** *programmer*  
-**pitch :**its the game pong but you can play it up to four player**  
+**pitch :** *its the game pong but you can play it up to four player*  
 [you can try it out here](https://n00shoak.itch.io/space-pong)  
 [Gameplay video]  
 #### cool coding stuff done :  
@@ -80,7 +80,7 @@ ___
 
 ### 🔒 __escape game__ (2023)
 **my role :** *programmer*  
-**pitch :** **  
+**pitch :** *stuck on a sunking military ship you try to find your way out through various puzzle*  
 [you can try it out here]  
 [Gameplay video]  
 #### cool coding stuff i did :  
@@ -90,7 +90,7 @@ ___
 
 ### ✈️ __Neon Shooter__ (2023)
 **my role :** *alone on the project*  
-**pitch :**you play as a little spache ship and try to defend yourself from relentless ennemies**  
+**pitch :** *you play as a little spache ship and try to defend yourself from relentless ennemies* 
 [you can try it out here](https://n00shoak.itch.io/neon-shooter)  
 [Gameplay video]  
 #### cool coding stuff i did :  
@@ -106,7 +106,7 @@ ___
 ### ⌨️ __Type it__ (2024)
 its a little project i worked on, the goal was to make something fun that could help my little brother learn how to use a key board (goal achieved)
 **my role :** *alone on the project*  
-**pitch :**a little typing game were you have to write words that apear in a short ammount of time to try and get the highest score**  
+**pitch :** *a little typing game were you have to write words that apear in a short ammount of time to try and get the highest score*  
 [you can try it out here](https://n00shoak.itch.io/type-it)  
 [Gameplay video]  
 #### things i want to add / change : 
@@ -116,7 +116,7 @@ ___
 
 ### 🏏 __Maxi PinBall__ (2024)
 **my role :** *alone on the project*  
-**pitch :**it is a virtual pinball game**  
+**pitch :** *it is a virtual pinball game*  
 [you can try it out here](https://n00shoak.itch.io/maxi-pinball)  
 [Gameplay video]  
 #### cool coding stuff i did :  
