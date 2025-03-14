@@ -73,7 +73,6 @@ ___
 #### cool coding stuff done :  
 > physics : most of the time i enjoy coding component and object behavior my self, but on that project i tryed to get out of my confort zone and try to work around collider effect. Doing so was a lot of fun and i could experiment a lot on the rigidbody's feature by changing how bouncy does the bars can be or adding a balck hole that pull the ball inside. Despite being a small project i really enjoyed playing this game and having four person on the same keyboard make it even funnier !
 
-> **stuff :**
 #### things i want to add / change : 
 > being abble to select how many player are playing would be nice since the game isnt really made for less than four player. Also i think making the "arena" a circle would be interesting 
 ___
@@ -105,26 +104,25 @@ ___
 
 
 ### ⌨️ __Type it__ (2024)
+its a little project i worked on, the goal was to make something fun that could help my little brother learn how to use a key board (goal achieved)
 **my role :** *alone on the project*  
-**pitch :** **  
-[you can try it out here]  
+**pitch :**a little typing game were you have to write words that apear in a short ammount of time to try and get the highest score**  
+[you can try it out here](https://n00shoak.itch.io/type-it)  
 [Gameplay video]  
-#### cool coding stuff i did :  
-> **stuff :**
 #### things i want to add / change : 
->
+> more difficulty tweaks and a way to add custom word so it works with multiple language or can use more complex words or sentence / maybe some slurs too
 ___
 
 
 ### 🏏 __Maxi PinBall__ (2024)
 **my role :** *alone on the project*  
-**pitch :** **  
-[you can try it out here]  
+**pitch :**it is a virtual pinball game**  
+[you can try it out here](https://n00shoak.itch.io/maxi-pinball)  
 [Gameplay video]  
 #### cool coding stuff i did :  
-> **stuff :**
-#### things i want to add / change : 
->
+> **FX : in that project i learned how to make interesting sound and visual effect to make the gameplay dynamic and keep the player focus on the action, its also in this project that i learned how to use proprely the animation tool in unity**
+#### things i want to add / change :
+> make it codeless , with my current knowledge of unity i belive that by simply using a mix of physical object / animations and event call i can drasticly reduce the ammount of custom script needed and despite not being the most optimise way to do a game it just seem like something fun to try.
 ___
 
 ### Unclock (2025)
