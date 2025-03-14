@@ -28,7 +28,6 @@ ___
 ## 📂 here you can find my : 
 - **[My resume](https://github.com/n00shoak/Portfolio/blob/main/Document/Resume/Resume.pdf)**
 - **[Project i worked on](https://github.com/n00shoak/Portfolio/blob/main/Document/Project%20i%20worked%20on.md)**
-- **[Cool Stuff i did (programming)](https://github.com/n00shoak/Portfolio/blob/main/Document/Coding%20Stuff.md)**
 - **[Stuff i enjoy doing(videogame,cookingc.ect...)]**
 
 ___
