@@ -11,7 +11,6 @@ here is a video of how you can launch them [aparently i need to do it my self]
 **my role :** *alone on the project*  
 **pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*  
 [you van get the files here](https://github.com/n00shoak/ominous_gaze)  
-[gameplay video]  
 #### cool coding stuff done :  
 > **AI : it was my first time dealing with ai and trying to give it fun behavior i had to keep it simple to fit in the dead line but i made it change its behavior depending on its health and proximity to the player to make it flee or fight. It isnt much but its the first of many and today i still enjoy developing ennemies with various behavior and paterns to challenge the player**
 #### things i want to add / change : 
@@ -24,8 +23,9 @@ ___
 Game from the **2022 ETPA GameJam**  
 **my role :** *animator*  
 **pitch :** *you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level*  
-[you can try it out here](https://sangagin.itch.io/deletoile)  
-[Gameplay Video]  
+[you can try it out here](https://sangagin.itch.io/deletoile)   
+  
+![](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Del.png)  
 ___
 
 
@@ -34,7 +34,6 @@ ___
 **pitch :** *you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
 
 [you van get the files here](https://github.com/n00shoak/DeepDownBelow)  
-[Gameplay Video]  
 
 #### cool coding stuff i did :  
 > **Procedural generation :**   
@@ -55,7 +54,8 @@ ___
 **my role :** *programmer*  
 **pitch :** *its the game pong but you can play it up to four player*  
 [you can try it out here](https://n00shoak.itch.io/space-pong)  
-[Gameplay video]  
+  
+![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/SpacePong.png)  
 #### cool coding stuff done :  
 > physics : most of the time i enjoy coding component and object behavior my self, but on that project i tryed to get out of my confort zone and try to work around collider effect. Doing so was a lot of fun and i could experiment a lot on the rigidbody's feature by changing how bouncy does the bars can be or adding a balck hole that pull the ball inside. Despite being a small project i really enjoyed playing this game and having four person on the same keyboard make it even funnier !
 
@@ -68,7 +68,6 @@ ___
 **my role :** *programmer*  
 **pitch :** *stuck on a sunking military ship you try to find your way out through various puzzle*  
 [you can try it out here]  
-[Gameplay video]  
 #### cool coding stuff i did :  
 > **the water management puzzle :** its not only and indicator of how much time the player has left but having it interactable and making the player decide if its worht it to spend extra time on it to gain time was really intresting ! The puzzle itself is a series of room that can get filled of whater and comunicate their fill amount to the next room, it was a bit tidyous and i think i could make it simpler using a few videoclips and the Timeline tool to have something that look better
 ___
@@ -78,12 +77,12 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *you play as a little spache ship and try to defend yourself from relentless ennemies* 
 [you can try it out here](https://n00shoak.itch.io/neon-shooter)  
-[Gameplay video]  
+  
+![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Neon%20Shooter.png)  
 #### cool coding stuff i did :  
 > *AI : i tryed to make some ennemies that were interesting to fight, thats why i implemented two key features for theyr behavior :*  
 > - Player Distance based behavior : i used it so that the ennemis can rush the player if to faraway and start theyr attack patern when nearby  
 > - Randomized statistic : on my first test the eneemies where stacked ont one another and where all doing the same thing at the same time, to prevent that , each ai start with few tweaks in theyr stats wich make them a little slower or faster and result in variation in theyr behavior**  
-[link to ai test]
 #### things i want to add / change : 
 > i first planned to make it a rogue like and it would be nice to have upgrade as you progress through the game, and more ennemis that would be harder and harder to fight as the player get stronger to keep some challenge and fun ! 
 ___
