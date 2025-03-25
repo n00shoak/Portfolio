@@ -92,7 +92,9 @@ ___
 its a little project i worked on, the goal was to make something fun that could help my little brother learn how to use a key board (goal achieved)
 **my role :** *alone on the project*  
 **pitch :** *a little typing game were you have to write words that apear in a short ammount of time to try and get the highest score*  
-[you can try it out here](https://n00shoak.itch.io/type-it)  
+[you can try it out here](https://n00shoak.itch.io/type-it)   
+  
+![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/TypeIt.png)  
 #### things i want to add / change : 
 > more difficulty tweaks and a way to add custom word so it works with multiple language or can use more complex words or sentence / maybe some slurs too
 ___
