@@ -10,7 +10,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ### ⚔️ __Ominous Gaze__ (2022)
 **my role :** *alone on the project*  
 **pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*  
-[you van get the files here](https://github.com/n00shoak/ominous_gaze)  
+[you can get the files here](https://github.com/n00shoak/ominous_gaze)  
 #### cool coding stuff done :  
 > **AI : it was my first time dealing with ai and trying to give it fun behavior i had to keep it simple to fit in the dead line but i made it change its behavior depending on its health and proximity to the player to make it flee or fight. It isnt much but its the first of many and today i still enjoy developing ennemies with various behavior and paterns to challenge the player**
 #### things i want to add / change : 
