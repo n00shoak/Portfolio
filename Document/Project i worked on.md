@@ -33,7 +33,7 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
 
-[you van get the files here](https://github.com/n00shoak/DeepDownBelow)  
+[you can get the files here](https://github.com/n00shoak/DeepDownBelow)  
 
 #### cool coding stuff i did :  
 > **Procedural generation :**   
