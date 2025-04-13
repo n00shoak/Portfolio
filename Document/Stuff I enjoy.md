@@ -1,5 +1,4 @@
 # Video Game   
-bla bla bla i game a lot bla bla bla i like cool game but i'm not that much of a slob  
 ___
 ## Monster hunter  
 [Pictures]  
