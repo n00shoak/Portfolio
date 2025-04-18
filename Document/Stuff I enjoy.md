@@ -1,45 +1,28 @@
-# Video Game   
+# 🕹️ Video Games 🕹️   
+## 🦎 Monster hunter 
+[Pictures]  
+*I could go on for many lines about why I enjoy this game so much, but to keep the document clear, I’ll stick to the main points. I enjoy Monster Hunter games because they are an intellectual challenge without being a “hill” in difficulty: you're presented with a series of situations (the monster's attacks), and the goal is to react with the correct moves based on your avatar’s current state (from attack A, I can dodge, perform a counter, or use a shield…). Having clear knowledge of both the task and how to confront it feels really rewarding when you finally vanquish the monster and claim victory!  
+Also, the Palicoes (the cats) are one of the big reasons I enjoy the game—they’re just so cute!*  
+
+## ⚙️ Factorio  
+[Pictures]  
+*The game presents you with a variety of devices, and with it you get to produce resources that allow you to make better stuff that allows you to produce even more. For me, the joy in this game comes from getting to produce something, sometimes spending hours on math and design, and the second I'm done I already have a new way to improve on the system. Also, I got to experience the game completely differently recently: instead of establishing my own workflow within the game, I was brought into a friend's game who needed help and had to help him fix it and improve. Putting myself in a messy situation and getting to find out the problems and the required logic to fix it and share the produced reward with a friend is a really satisfying process I enjoy in this game.* 
+
+## ⚔️ Elden Ring  
+[Pictures]  
+*That game taught me a lot, it's a hard game and you have to face many enemies, and you're meant to fail, you're meant to die and realise the strength of your opponents and learn from it, and only when I realised it is when I truly enjoyed the game because you don't fail by not achieving a task, you lose the game when you stop trying to fight. And I started to apply this logic to my work, to not get frustrated on small failure or mistakes, I can learn from them, get to prevent and prepare for potential errors and get to enhance my work as I go on and on!* 
+
+## ♟️ RimWorld  
+[Pictures]  
+*I never thought a game could be that time consuming! Having that liberty to create and "narrate" your own little story is very enjoyable, but the game mastered the way of "preoccupying the player". Every now and then you get a more or less difficult problem while you prepare for larger trout .This mix of long therms and short therm fixes and problems make it so that you are always thinking about your next move, trying to figure out what could happen next and how can you overcome the situation.* 
+  
 ___
-## Monster hunter  
-[Pictures]  
-*I could go on for many lines about why i enjoy this game so much but to keep the document clear ill stick to the main points. I enjoy MH games because they are an intellectual challenge without beign a "hill" in difficulty : your presented to a series of situation (monster's attacks) and the goal is to react with the correct moves from the state your avatar is currently in (from attack A i can dodge or perform some counter or use shield ...). And having clear knowledge on both the task and how to confront it feel really rewarding when you get to vainquish the monster and claim victory ! and palico's (cats) are also one of the big reason i enjoy the game , they are just so cute !*  
+# 🍴 cooking 🍴  
+i've been cooking since i was 3, learning various recipies in my familly but also enjoying learning and exploring new things by myself ! Here are a few desert i've learned to perfectione over the years :  
+## ☁️ meringues   
+[picture]   
+*The recipe is simple: you mix egg whites until they form a fluffy and thick foam, add sugar, cook it for 5–8 hours (depending on the eggs), and you’re done. Yet the slightest change in any step gives you a very different result. Making sure each and every step is properly done, while trying to find new ways to improve the recipe, is a process I enjoy a lot. Also, it’s really high in sugar, so it’s always a nice snack.* 
 
-## Factorio  
-[Pictures]  
-*the game present you with a variety of devices and with it you get to produces ressources that allow to make better stuff that allows to produce even more, for me the joy in this game comes from getting to produce something, sometime spending hours on math and design and the second i'm done i already have a new way to improve on the system, also i got to experience the game completely differently recently : isntead of establishing my own workflow within the game i was broought on a friend's game who needed help and had to help him fix it and improve, puting my self in a messy situation and getting to find out the problems and the required logic to fix it and share the produced reward with a friend is a really satisfying process i enjoy in this game* 
-
-## Elden Ring  
-[Pictures]  
-*that game taught me a lot , its a hard game and you have to face many ennemies, and your meant to fail, your meant to die and realise the strength of your oponents and learn from it, and only when i realised it is when i truly enjoyed the game because you dont fail by not achieving a task, you lose the game when you stop trying to fight. And i started to apply this logic to my work, to not get frustrated on small failure or mistakes, i can learn from them, get to prevent and prepare for potential errors and get to enhance my work as i go on and on !* 
-
-## RimWorld  
-[Pictures]  
-*i never thaught a game could be that chronovore, having that liberty to create and "narate" your own little story is very enjoyable but the game mastered the way of "preocupying the player" every now and then you get a more or less difficult problem while you prepare for larger threath and this mix of long therms and short therm fixes and problems make it so that you are always thinking about your next move and trying to figure out what could happen next and how can you overcome the situation.* 
-
-___
-# cooking  
-bla bla bla , since i was 3 bla bla bla french bla bla sweets
-
-## meringues  
-[Pictures]  
-*the recipe is simple, you mix egg white and sugar, cook it for 5 hours and your done. Yet the slightest change in every step get you a very different result, making sure each and every step is proprely done while trying to find new way to improved the recipe is a process i enjoy a lot. Also its really high on sugar so its always a nice snack* 
-
-## rolls   
-[Pictures]  
-*bla bla taught by my grand mother to my mother then to me , bla bla familly recipe , bla bla very freeking good* 
-
-___
-# Media  
-i like comedy and science 
-
-## ASDF Movies  
-[Pictures]  
-*why do i like it* 
-
-## whatever niel tyson did  
-[Pictures]  
-*why do i like it* 
-
-## how is it made (the one with swears)  
-[Pictures]
-*why do i like it* 
+## 🪵 Yule log   
+[picture]  
+*My grandmother used to make lots and lots of Yule logs for the neighborhood. She shared the recipe with my mother, who then passed it on to me. The difficulty lies in guessing how to adjust the quantities depending on the eggs—if they're smaller, larger, denser, or more watery, you get a very different result. And if you're not careful enough, you can end up with a cake that's too thick to be rolled, or so thin it cracks at the slightest move. But the true joy of baking a Yule log comes from sharing it with family. It's usually made for special occasions and often means enjoying a good dessert with relatives I haven’t seen in a while.*
