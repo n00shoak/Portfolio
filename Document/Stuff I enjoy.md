@@ -16,7 +16,7 @@ ___
 # 🍴 cooking 🍴  
 i've been cooking since i was 3, learning various recipies in my familly but also enjoying learning and exploring new things by myself ! Here are a few desert i've learned to perfectione over the years :  
 ## ☁️ meringues   
-[picture]   
+![picture](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Meringues.jpg)   
 *The recipe is simple: you mix egg whites until they form a fluffy and thick foam, add sugar, cook it for 5–8 hours (depending on the eggs), and you’re done. Yet the slightest change in any step gives you a very different result. Making sure each and every step is properly done, while trying to find new ways to improve the recipe, is a process I enjoy a lot. Also, it’s really high in sugar, so it’s always a nice snack.* 
 
 ## 🪵 Yule log   
