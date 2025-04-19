@@ -11,10 +11,6 @@ Also, the Palicoes (the cats) are one of the big reasons I enjoy the game—they
 ## ⚔️ Elden Ring  
 ![Pictures](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/eldenring.png)  
 *That game taught me a lot, it's a hard game and you have to face many enemies, and you're meant to fail, you're meant to die and realise the strength of your opponents and learn from it, and only when I realised it is when I truly enjoyed the game because you don't fail by not achieving a task, you lose the game when you stop trying to fight. And I started to apply this logic to my work, to not get frustrated on small failure or mistakes, I can learn from them, get to prevent and prepare for potential errors and get to enhance my work as I go on and on!* 
-
-## ♟️ RimWorld  
-[Pictures]  
-*I never thought a game could be that time consuming! Having that liberty to create and "narrate" your own little story is very enjoyable, but the game mastered the way of "preoccupying the player". Every now and then you get a more or less difficult problem while you prepare for larger trout .This mix of long therms and short therm fixes and problems make it so that you are always thinking about your next move, trying to figure out what could happen next and how can you overcome the situation.* 
   
 ___
 # 🍴 cooking 🍴  
