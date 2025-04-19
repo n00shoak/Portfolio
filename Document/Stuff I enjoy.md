@@ -1,6 +1,6 @@
 # 🕹️ Video Games 🕹️   
 ## 🦎 Monster hunter 
-[Pictures]  
+![Pictures](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/mh%20wild.png)  
 *I could go on for many lines about why I enjoy this game so much, but to keep the document clear, I’ll stick to the main points. I enjoy Monster Hunter games because they are an intellectual challenge without being a “hill” in difficulty: you're presented with a series of situations (the monster's attacks), and the goal is to react with the correct moves based on your avatar’s current state (from attack A, I can dodge, perform a counter, or use a shield…). Having clear knowledge of both the task and how to confront it feels really rewarding when you finally vanquish the monster and claim victory!  
 Also, the Palicoes (the cats) are one of the big reasons I enjoy the game—they’re just so cute!*  
 
