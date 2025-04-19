@@ -20,5 +20,5 @@ i've been cooking since i was 3, learning various recipies in my familly but als
 *The recipe is simple: you mix egg whites until they form a fluffy and thick foam, add sugar, cook it for 5–8 hours (depending on the eggs), and you’re done. Yet the slightest change in any step gives you a very different result. Making sure each and every step is properly done, while trying to find new ways to improve the recipe, is a process I enjoy a lot. Also, it’s really high in sugar, so it’s always a nice snack.* 
 
 ## 🪵 Yule log   
-[picture]  
+![picture](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Buche.jpg)  
 *My grandmother used to make lots and lots of Yule logs for the neighborhood. She shared the recipe with my mother, who then passed it on to me. The difficulty lies in guessing how to adjust the quantities depending on the eggs—if they're smaller, larger, denser, or more watery, you get a very different result. And if you're not careful enough, you can end up with a cake that's too thick to be rolled, or so thin it cracks at the slightest move. But the true joy of baking a Yule log comes from sharing it with family. It's usually made for special occasions and often means enjoying a good dessert with relatives I haven’t seen in a while.*
