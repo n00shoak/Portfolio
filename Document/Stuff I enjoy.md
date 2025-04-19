@@ -9,7 +9,7 @@ Also, the Palicoes (the cats) are one of the big reasons I enjoy the game—they
 *The game presents you with a variety of devices, and with it you get to produce resources that allow you to make better stuff that allows you to produce even more. For me, the joy in this game comes from getting to produce something, sometimes spending hours on math and design, and the second I'm done I already have a new way to improve on the system. Also, I got to experience the game completely differently recently: instead of establishing my own workflow within the game, I was brought into a friend's game who needed help and had to help him fix it and improve. Putting myself in a messy situation and getting to find out the problems and the required logic to fix it and share the produced reward with a friend is a really satisfying process I enjoy in this game.* 
 
 ## ⚔️ Elden Ring  
-[Pictures]  
+![Pictures](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/eldenring.png)  
 *That game taught me a lot, it's a hard game and you have to face many enemies, and you're meant to fail, you're meant to die and realise the strength of your opponents and learn from it, and only when I realised it is when I truly enjoyed the game because you don't fail by not achieving a task, you lose the game when you stop trying to fight. And I started to apply this logic to my work, to not get frustrated on small failure or mistakes, I can learn from them, get to prevent and prepare for potential errors and get to enhance my work as I go on and on!* 
 
 ## ♟️ RimWorld  
