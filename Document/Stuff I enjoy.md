@@ -5,7 +5,7 @@
 Also, the Palicoes (the cats) are one of the big reasons I enjoy the game—they’re just so cute!*  
 
 ## ⚙️ Factorio  
-[Pictures]  
+![Pictures](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/factorio.png)  
 *The game presents you with a variety of devices, and with it you get to produce resources that allow you to make better stuff that allows you to produce even more. For me, the joy in this game comes from getting to produce something, sometimes spending hours on math and design, and the second I'm done I already have a new way to improve on the system. Also, I got to experience the game completely differently recently: instead of establishing my own workflow within the game, I was brought into a friend's game who needed help and had to help him fix it and improve. Putting myself in a messy situation and getting to find out the problems and the required logic to fix it and share the produced reward with a friend is a really satisfying process I enjoy in this game.* 
 
 ## ⚔️ Elden Ring  
