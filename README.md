@@ -28,6 +28,7 @@ ___
 ## 📂 here you can find my : 
 - **[My resume](https://github.com/n00shoak/Portfolio/blob/main/Document/Resume/Resume.pdf)**
 - **[Project i worked on](https://github.com/n00shoak/Portfolio/blob/main/Document/Project%20i%20worked%20on.md)**
+- **[stuff i enjoy](https://github.com/n00shoak/Portfolio/blob/main/Document/Stuff%20I%20enjoy.md)**
 
 ___
 ## 📱 Ways to contact me : 
