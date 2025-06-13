@@ -114,6 +114,8 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *dodge and fight waves of enemies to become stronger and make crazy combo with your spells !*  
 [you can try it out here !](https://n00shoak.itch.io/guns-n-wyzards)  
+
+![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Guns'n%20Wizards.png)
 #### cool coding stuff i did :  
 > **Rogue like Statistics :** Having a way to share and edit values efficiently across the project was a fun challenge! I came up with a "shared stats" system, where each stat is stored in an object file from which I can easily edit its default value, apply modifiers (buffs and debuffs), or even have its value scale based on other stats.
 For example: Fire Damage is linked to Global Damage, so the value of Global Damage is added to Fire Damage. 
