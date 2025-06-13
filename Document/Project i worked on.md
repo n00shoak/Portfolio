@@ -10,7 +10,7 @@ here is a video of how you can launch them [aparently i need to do it my self]
 ### ⚔️ __Ominous Gaze__ (2022)
 **my role :** *alone on the project*  
 **pitch :** *your trying to escape a space ship you were emprisoned in but weird creature will hunt you on your way out*  
-[you can get the files here](https://github.com/n00shoak/ominous_gaze)  
+[you can get the files here !](https://github.com/n00shoak/ominous_gaze)  
 #### cool coding stuff done :  
 > **AI : it was my first time dealing with ai and trying to give it fun behavior i had to keep it simple to fit in the dead line but i made it change its behavior depending on its health and proximity to the player to make it flee or fight. It isnt much but its the first of many and today i still enjoy developing ennemies with various behavior and paterns to challenge the player**
 #### things i want to add / change : 
@@ -23,7 +23,7 @@ ___
 Game from the **2022 ETPA GameJam**  
 **my role :** *animator*  
 **pitch :** *you play various character inspired from computer brand and your goal is to dodge attacks to get to the end of the level*  
-[you can try it out here](https://sangagin.itch.io/deletoile)   
+[you can try it out here !](https://sangagin.itch.io/deletoile)   
   
 ![](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Del.png)  
 ___
@@ -33,7 +33,7 @@ ___
 **my role :** *alone on the project*  
 **pitch :** *you play one of the miner in a mining team and your goal is to gather ressources to progress in increasingly hard caves and upgrade your gear*   
 
-[you can get the files here](https://github.com/n00shoak/DeepDownBelow)  
+[you can get the files here !](https://github.com/n00shoak/DeepDownBelow)  
 
 #### cool coding stuff i did :  
 > **Procedural generation :**   
@@ -53,7 +53,7 @@ ___
 ### 🏐 __Space Pong__ (2023)
 **my role :** *programmer*  
 **pitch :** *its the game pong but you can play it up to four player*  
-[you can try it out here](https://n00shoak.itch.io/space-pong)  
+[you can try it out here !](https://n00shoak.itch.io/space-pong)  
   
 ![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/SpacePong.png)  
 #### cool coding stuff done :  
@@ -75,8 +75,8 @@ ___
 
 ### ✈️ __Neon Shooter__ (2023)
 **my role :** *alone on the project*  
-**pitch :** *you play as a little spache ship and try to defend yourself from relentless ennemies* 
-[you can try it out here](https://n00shoak.itch.io/neon-shooter)  
+**pitch :** *you play as a little spache ship and try to defend yourself from relentless ennemies*  
+[you can try it out here !](https://n00shoak.itch.io/neon-shooter)  
   
 ![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/Neon%20Shooter.png)  
 #### cool coding stuff i did :  
@@ -92,7 +92,7 @@ ___
 its a little project i worked on, the goal was to make something fun that could help my little brother learn how to use a key board (goal achieved)
 **my role :** *alone on the project*  
 **pitch :** *a little typing game were you have to write words that apear in a short ammount of time to try and get the highest score*  
-[you can try it out here](https://n00shoak.itch.io/type-it)   
+[you can try it out here !](https://n00shoak.itch.io/type-it)   
   
 ![a](https://github.com/n00shoak/Portfolio/blob/main/Document/Pictures/TypeIt.png)  
 #### things i want to add / change : 
@@ -103,13 +103,27 @@ ___
 ### 🏏 __Maxi PinBall__ (2024)
 **my role :** *alone on the project*  
 **pitch :** *it is a virtual pinball game*  
-[you can try it out here](https://n00shoak.itch.io/maxi-pinball)  
+[you can try it out here !](https://n00shoak.itch.io/maxi-pinball)  
 #### cool coding stuff i did :  
-> **FX : in that project i learned how to make interesting sound and visual effect to make the gameplay dynamic and keep the player focus on the action, its also in this project that i learned how to use proprely the animation tool in unity**
+> **FX** : in that project i learned how to make interesting sound and visual effect to make the gameplay dynamic and keep the player focus on the action, its also in this project that i learned how to use proprely the animation tool in unity
 #### things i want to add / change :
 > **make it codeless :**  
 >  with my current knowledge of unity i belive that by simply using a mix of physical object / animations and event call i can drasticly reduce the ammount of custom script needed and despite not being the most optimise way to do a game it just seem like something fun to try.
 ___
+### 🏏 __Guns'n Wizzards__ (2025)
+**my role :** *alone on the project*  
+**pitch :** *dodge and fight waves of enemies to become stronger and make crazy combo with your spells !*  
+[you can try it out here !](https://n00shoak.itch.io/guns-n-wyzards)  
+#### cool coding stuff i did :  
+> **Rogue like Statistics :** Having a way to share and edit values efficiently across the project was a fun challenge! I came up with a "shared stats" system, where each stat is stored in an object file from which I can easily edit its default value, apply modifiers (buffs and debuffs), or even have its value scale based on other stats.
+For example: Fire Damage is linked to Global Damage, so the value of Global Damage is added to Fire Damage. 
 
+>**AI :** The main goal with this game's Ai was a way to manage the AI's behavior directly from the Inspector window. To achieve this, I made a state machine that uses states created through a factory pattern system. Each state has various values, such as the minimum duration it should be performed before switching, its priority (which affects how often it is used), and a stamina system. This stamina mechanic allows enemies to use strong or powerful behaviors, but if they run out of stamina, they must perform a calmer state to recover.
+For example: Charging toward the player costs 10 stamina, while resting restores 25.
+
+#### things i want to add / change :
+>**more content :** I want to create dozens of enemies and spells in the coming weeks, but they need to feel impactful—not just projectiles with different colors. One way I plan to achieve this is by adding a buff system to the player and making bullets interact with each other.
+For example: A spell that adds +2 size to the next fire spell, or one that does nothing on its own but causes the next spell to shoot 3 times more projectiles.
+___
 ### Unclock (2025)
 **WIP**
