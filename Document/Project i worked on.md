@@ -128,9 +128,9 @@ For example: Charging toward the player costs 10 stamina, while resting restores
 For example: A spell that adds +2 size to the next fire spell, or one that does nothing on its own but causes the next spell to shoot 3 times more projectiles.
 ___
 ### Unclock (2025)
-**my role :** Programmer
-**pitch :** You are the last employee of the company and you must make it to the boss's office at the top. However, watch out for robotic entities along the way
-[trailer!](https://www.youtube.com/watch?v=wKoe8wI5O5Q&t=1s)
-[you can try it out here !](https://claude-blanchet-babin.itch.io/uncloc)  
+**my role :** Programmer  
+**pitch :** You are the last employee of the company and you must make it to the boss's office at the top. However, watch out for robotic entities along the way  
+[trailer!](https://www.youtube.com/watch?v=wKoe8wI5O5Q&t=1s)  
+[you can try it out here !](https://claude-blanchet-babin.itch.io/uncloc)    
 #### cool coding stuff i did :  
->**AI :** during the prototyping of the game i had to try diferent method to do the ai and get to know what would be the best option for the project, i tryed various method including the new behavior tree in unity 6 but in the end making a state machine was the best option because it made it easier for the game designer to test and tweak various values of the ai and adding new behaviours to it had very little risk to brake the AI.
+>**AI :** during the prototyping of the game i had to try diferent method to do the ai and get to know what would be the best option for the project, i tryed various method including the new behavior tree in unity 6 but in the end making a state machine was the best option because it made it easier for the game designer to test and tweak various values of the ai and adding new behaviours to it had very little risk to brake the AI.  
